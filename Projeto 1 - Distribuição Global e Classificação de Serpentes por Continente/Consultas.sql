@@ -1,4 +1,4 @@
--- Para iniciarmos a estrutura de um projeto SQL a partir de um arquivo .csv , o processo começa com a criação de um banco de dados e tabelas que receberão esses dados
+-- Para iniciarmos a estrutura de um projeto SQL a partir de um arquivo .csv , o processo começa com a importação da tabela para realizarmos as consultas
 -- Passos principais:
     --Carregar os dados do CSV na tabela.
     --Executar consultas iniciais para fornecer insights
