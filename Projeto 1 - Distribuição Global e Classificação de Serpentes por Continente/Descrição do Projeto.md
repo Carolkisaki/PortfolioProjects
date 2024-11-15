@@ -33,6 +33,6 @@ O gráfico que compara as famílias de serpentes por continente indica que: - Co
 # 4. Conclusão
 Este dashboard fornece uma visão geral valiosa, mas há espaço para aprofundamentos. Estudos futuros poderiam focar na correlação entre a distribuição de serpentes peçonhentas e não peçonhentas com fatores climáticos, padrões de urbanização e mudanças ambientais globais. Além disso, investigações sobre as características genéticas que permitem a adaptação dessas espécies em diferentes continentes poderiam proporcionar insights mais detalhados sobre a evolução das serpentes.
 
-## [Visualize o Dashboard](https://app.powerbi.com/viewr=eyJrIjoiMWIwMjU1OTktMzM0MC00NzFmLTkyNDUtNjExMjQ3YjAwMGY0IiwidCI6IjZjYmI5Y2Y3LWI0YzQtNGVmZC04NjVlLWFmYzRhYWM1ZmIxYSJ9)
+## [Visualize o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWIwMjU1OTktMzM0MC00NzFmLTkyNDUtNjExMjQ3YjAwMGY0IiwidCI6IjZjYmI5Y2Y3LWI0YzQtNGVmZC04NjVlLWFmYzRhYWM1ZmIxYSJ9)
 
 
