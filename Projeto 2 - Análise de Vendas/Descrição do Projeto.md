@@ -29,3 +29,5 @@ A análise foi dividida em quatro abas:
 4 - Padrões de Compra por Ponto de Venda: Onde o produto foi mais vendido? Qual foi a performance?
 
 A principal vantagem de encontrar o cliente ideal (ICP) e bem definido é a fidelização dos clientes, que consequentemente significa maior conversão e frequência de vendas, todos os detalhes precisam ser observados para que a empresa tenha a cara do cliente e isso determinará a forma de se relacionar com o público, o design, o conteúdo, entre outros.
+
+## [Visualize o Relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZGQzZjlmZDctOTY1My00MDI4LWFkOWQtNzFiMDg2OTEzZTAxIiwidCI6IjZjYmI5Y2Y3LWI0YzQtNGVmZC04NjVlLWFmYzRhYWM1ZmIxYSJ9)
