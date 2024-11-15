@@ -16,3 +16,16 @@ sumx = agrupamento por linha
 - Compreender o perfil dos clientes
 - O comportamento de gastos
 - Padrões de compra
+
+# 4. Resultados
+A análise foi dividida em quatro abas:
+
+1 - Perfil do Cliente: Como estão divididos em nível de escolaridade? São casados?
+
+2 - Comportamento de Gasto: O poder de compra do cliente é influenciado por ser solteiro ou casado? E se ele tem filhos?
+
+3 - Performance das Campanhas: Qual campanha obteve o maior retorno? Teve diferença no estado civil do cliente? Quanto tempo foi necessário para o cliente realizar a compra?
+
+4 - Padrões de Compra por Ponto de Venda: Onde o produto foi mais vendido? Qual foi a performance?
+
+A principal vantagem de encontrar o cliente ideal (ICP) e bem definido é a fidelização dos clientes, que consequentemente significa maior conversão e frequência de vendas, todos os detalhes precisam ser observados para que a empresa tenha a cara do cliente e isso determinará a forma de se relacionar com o público, o design, o conteúdo, entre outros.
