@@ -26,15 +26,26 @@ A análise de Perfil do Cliente é fundamental para entender as características
 
 O Total de Clientes nos permite dimensionar o tamanho do mercado, enquanto que ter a informação do Salário Médio Anual nos oferece uma visão crítica sobre o poder de compra do público, possibilitando a criação de estratégias de marketing mais direcionadas, e consequentemente maior faturamento, satisfação do cliente, fidelização, maior oportunidade de diferenciação, menos desperdício nas abordagens, autoridade, comunicação otimizada, melhoria contínua e ocupação dos lugares certos.
 
+A principal vantagem de encontrar o cliente ideal (ICP) e bem definido é a fidelização dos clientes, que consequentemente significa maior conversão e frequência de vendas, todos os detalhes precisam ser observados para que a empresa tenha a cara do cliente e isso determinará a forma de se relacionar com o público, o design, o conteúdo, entre outros.
+
 2 - Comportamento de Gasto: O poder de compra do cliente é influenciado por ser solteiro ou casado? E se ele tem filhos?
+
+A análise do Comportamento de Gasto é crucial para entender como diferentes fatores influenciam decisões. Relacionar o Total Gasto com a Média do Salário Anual oferece uma visão clara sobre a capacidade financeira dos consumidores e relacionar esses dados com a quantidade de filhos em casa nos fornece insights sobre se a presença de filhos pode alterar significativamente as preferências e os poder de compra dos consumidores
+
+Segundo Barbosa e Martins (2018), as crianças são influentes na definição de prioridades de compra, o que inclui desde itens de necessidade básica, como alimentos, até bens de maior valor, como veículos e imóveis. Esse fenômeno ocorre porque, além das necessidades individuais dos adultos, as despesas relacionadas ao cuidado e educação das crianças adicionam uma camada de complexidade nas finanças familiares.
 
 3 - Performance das Campanhas: Qual campanha obteve o maior retorno? Teve diferença no estado civil do cliente? Quanto tempo foi necessário para o cliente realizar a compra?
 
+Ao integrar dados sobre o número de filhos, a renda anual e características demográficas na análise das campanhas de marketing, é possível obter insights valiosos para otimizar as estratégias e maximizar o retorno sobre investimento. Compreender os fatores que influenciam a decisão de compra ajuda a ajustar o foco das campanhas e a criar ofertas mais atraentes para cada segmento do público.
+
 4 - Padrões de Compra por Ponto de Venda: Onde o produto foi mais vendido? Qual foi a performance?
 
-A principal vantagem de encontrar o cliente ideal (ICP) e bem definido é a fidelização dos clientes, que consequentemente significa maior conversão e frequência de vendas, todos os detalhes precisam ser observados para que a empresa tenha a cara do cliente e isso determinará a forma de se relacionar com o público, o design, o conteúdo, entre outros.
+A análise detalhada de KPIs relacionados aos pontos de venda, acompanhada de gráficos que indicam os padrões de gastos por categoria e por ano, oferece insights valiosos sobre como os consumidores interagem com os diferentes canais de venda e quais são suas preferências regionais. Esses dados são fundamentais para otimizar a estratégia comercial, melhorar a alocação de recursos e aumentar a eficácia das campanhas
 
 ## [Visualize o Relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZGQzZjlmZDctOTY1My00MDI4LWFkOWQtNzFiMDg2OTEzZTAxIiwidCI6IjZjYmI5Y2Y3LWI0YzQtNGVmZC04NjVlLWFmYzRhYWM1ZmIxYSJ9)
 
-# Referências Bibliográficas
+### Referências Bibliográficas
+
+BARBOSA, Raul Afonso Pommer; MARTINS, Artur Virgilio Simpson. Influência dos Filhos no Processo de Compra no Varejo. In: Congresso Latino Americano de Varejo e Consumo (CLAV). 2018.
+
 Por que entender o perfil de cliente pode transformar o seu negócio?. Serasa Experian, 2019. Disponível em: https://www.serasaexperian.com.br/blog-pme/perfil-de-cliente/. Acesso em: 21 jan. 2025.
